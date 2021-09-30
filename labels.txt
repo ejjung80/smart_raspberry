@@ -1,0 +1,8 @@
+0 noodle
+1 egg
+2 rice
+3 mushroom
+4 onion
+5 tomatosauce
+6 ham
+7 cheese
